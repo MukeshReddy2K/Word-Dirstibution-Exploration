@@ -1,0 +1,48 @@
+Corpus 1 Stop Words:
+
+'about', 'these', 'while', 'd', 'hasn', 'between', 'by', 
+'ourselves', 'you', 'own', 'isn', 'was', 'yourselves', 
+'other', 'their', 'our', 'why', 'for', 'further', 'so', 
+'during', 'before', 'myself', 'herself', 'which', 'my', 
+'or', 'had', 've', 'having', 'this', 'be', 'whom', 'each', 
+'m', 'yourself', 'more', 'have', 'out', 'on', 'haven', 'too', 
+'over', 'its', 'in', 'any', 'wouldn', 'wasn', 'just', 
+'been', 'has', 'her', 'y', 'now', 'most', 'itself', 'as', 
+'once', 'won', 'your', 'a', 'few', 'does', 'above', 'yours', 
+'they', 'who', 'the', 'both', 'only', 'to', 'should', 'i', 
+'them', 'until', 'when', 'what', 'some', 'his', 'being', 
+'couldn', 'll', 'with', 'such', 'all', 'theirs', 'can', 
+'he', 'is', 'under', 'don', 'after', 'here', 'than', 'did', 
+'o', 't', 'an', 'from', 'himself', 'doing', 'of', 'themselves', 
+'am', 'because', 'where', 'nor', 'against', 'him', 'then', 
+'up', 'will', 'same', 's', 'but', 'do', 'those', 'it', 're', 
+'are', 'there', 'if', 'very', 'that', 'we', 'were', 'and', 
+'she', 'through', 'me', 'down', 'off', 'didn', 'how', 'into', 
+'no', 'below', 'doesn', 'again', 'not', 'at', 'ours'
+
+
+
+Corpus 2 Stop Words:
+
+'these', 'about', 'ain', 'd', 'while', 'hasn', 'between', 
+'by', 'ourselves', 'you', 'own', 'isn', 'ma', 'was', 
+'yourselves', 'hers', 'other', 'their', 'our', 'why', 
+'for', 'further', 'so', 'during', 'before', 'myself', 
+'herself', 'which', 'my', 'or', 'had', 've', 'having', 
+'this', 'be', 'weren', 'whom', 'mightn', 'each', 'm', 
+'yourself', 'more', 'have', 'out', 'on', 'haven', 'too', 
+'over', 'its', 'in', 'any', 'wouldn', 'wasn', 'just', 
+'been', 'has', 'her', 'y', 'now', 'most', 'itself', 
+'as', 'once', 'won', 'your', 'a', 'few', 'does', 'above', 
+'yours', 'they', 'who', 'the', 'both', 'only', 'to', 
+'should', 'i', 'them', 'until', 'when', 'what', 'some', 
+'his', 'being', 'couldn', 'll', 'with', 'such', 'all', 
+'theirs', 'can', 'he', 'is', 'under', 'aren', 'don', 
+'after', 'here', 'than', 'did', 'o', 't', 'an', 'needn', 
+'shan', 'from', 'himself', 'doing', 'of', 'themselves', 
+'am', 'because', 'where', 'nor', 'him', 'against', 'then', 
+'up', 'hadn', 'will', 'same', 's', 'but', 'do', 'those', 
+'it', 'mustn', 're', 'are', 'there', 'if', 'very', 'that', 
+'we', 'were', 'and', 'she', 'through', 'me', 'off', 
+'down', 'didn', 'how', 'into', 'no', 'shouldn', 'below', 
+'doesn', 'again', 'not', 'at', 'ours'
